@@ -19,6 +19,7 @@ public class GFG {
         }
     }
 }
+
 class Solution1 {
     int sumOfMatrix(int N, int M, int[][] Grid) {
         int sum=0;
