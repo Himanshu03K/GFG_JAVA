@@ -13,7 +13,6 @@ public class GFG18 {
             {
                 arr[i]=sc.nextInt();
             }
-
             int key =sc.nextInt();
             Sol2 g = new Sol2();
             System.out.println(g.binarysearch(arr,n,key));
