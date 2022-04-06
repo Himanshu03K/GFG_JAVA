@@ -19,6 +19,7 @@ class GFG
     }
 }
 
+
 class Solution{
     static String onesComplement(String S,int N){
         //code here
