@@ -31,7 +31,7 @@ class GFG {
             System.out.println(output);
             
         }
-	}
+    }
 }
 
 
