@@ -31,5 +31,6 @@ class Solution{
             str.append('1');
         }
         return str.toString();
+        
     }
 }
