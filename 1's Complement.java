@@ -5,6 +5,7 @@ class GFG
 {
     public static void main(String args[])throws IOException
     {
+        
         BufferedReader read = new BufferedReader(new InputStreamReader(System.in));
         int t = Integer.parseInt(read.readLine());
         while(t-- > 0)
