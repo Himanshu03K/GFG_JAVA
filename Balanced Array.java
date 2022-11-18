@@ -3,7 +3,6 @@ import java.util.*;
 
 class Solution
 {
-    
     long minValueToBalance(long a[] ,int n)
     {
         int i=0,j=n-1;
